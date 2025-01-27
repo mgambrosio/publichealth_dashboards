@@ -1,0 +1,23 @@
+---
+title: "ABOUT ME"
+about:
+  id: me
+  template: broadside
+  image: img/maria_ambrosio.jpg
+---
+
+:::{#me}
+
+I am a medical doctor and public health specialist with extensive experience in qualitative and quantitative methods, such as structural equations, multilevel models, bootstrapping, and meta-analysis.I worked in public sector hospitals and public health institutions and have expertise in data and health intelligence to inform the development of programmes, reports, and publications. My previous work includes behaviour change projects focused on nutrition, physical activity, smoking cessation, and parenting. I have experience and immersion in the United Kingdom, Russia, Africa, and the United States. 
+
+I am currently a Teaching Fellow at the University of Oxford and a Researcher in the Global Parenting Initiative, a global parenting program focused on improving children's health. In 2020, I worked with the epidemiology team of the Georgia Department of Public Health and used my knowledge and expertise to support the American government in response to the COVID-19 crisis. My doctoral research investigates the factors associated with population engagement in digital health interventions. My public health experience is not limited to research and includes several efforts to impact policy and inform evidence-based interventions to improve populations' health. 
+
+Outside work I have been involved as volunteer with the Arts, Crafts and Dinossaurs childrens holiday club funded by the Oxfordshire County Council. I am the co-founder of the Kuzola (Kikongo word that translated means “Love”) Project, an initiative that, for more than 10 years assists traumatized children and adolescents of the government-funded orphanage Lar Kuzola in Angola.
+
+## Education and Professional Experience
+
+You can view my CV [here](Ambrosio_CV16102024.pdf)
+
+:::
+
+

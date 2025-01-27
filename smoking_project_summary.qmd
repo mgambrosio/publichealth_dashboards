@@ -1,0 +1,47 @@
+---
+title: "Smoking and Coronary Heart Disease"
+format: dashboard
+theme: sandstone
+---
+
+
+# Background
+
+## Column 1 {.sidebar}
+
+```{r, fig.width=10, fig.height=10 }
+
+knitr::include_graphics("C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/publichealth_dashboards/img/predict_smoking_model.png")
+```
+
+## Row {width = 80%}
+
+<h2 style="font-size: 20px;">**A Retrospective Cohort Study to Evaluate the Predicting Factors on the Early Onset of Coronary Heart Disease Among Adult Smokers**</h2>
+
+**Introduction:**
+
+Many studies have demonstrated that smoking is directly associated with the risk of cardiovascular disease. This study hypothesizes that the risk of earlier onset of CHD increases with the number of cigarettes smoked by an individual and the smoking start age.
+
+**Methods:**
+
+Retrospective data on smoking status, relevant CHD risk factors, and the incidence of CHD events across four groups: non-smokers, light smokers (1-5), moderate smokers (6-15), and heavy smokers(16-25) was collected from the Framingham Heart Study. Propensity score matching was used to create balanced groups. One-way ANOVA test and Pearson’s Chi-squared test were used to elicit the differences in smoking start age and gender among groups. Multivariable logistic regression analyses were used to examine the risk of CHD onset based on predicting factors. 
+
+**Results:**
+
+The study population was a sample of 268 participants (55% male and 44% female) with a mean age of 40. The sample size calculations indicate that 30 subjects were required for a detectable effect size of 4.03 for a desired power of 99% with two-tailed P<0.05. The study revealed that the number of cigarettes smoked significantly increased the risk for an earlier CHD onset by 6.94 years for light smokers(95% CI 3.9 to 9.9 p< 0.0001), 6.76 for moderate smokers (95% CI 3.6 to 9.8 p< 0.0001), and 6.47 for heavy smokers (95% CI 3.6 to 9.2 p< 0.0001). The smoking start age was also associated with an increased risk for earlier onset of CHD (95% CI 0.64 to 0.90 p< 0.0001). This is an essential finding that demonstrates even more the importance of smoking cessation programs.
+
+Access the full R programming language code to create this analysis <a href="http://smokingchdanalysis.mtcambrosio.com/?fbclid=IwAR3Sqn08zLOTk5jDvEMjZMJS_4N7S2VCRbmvKRQspRajkmmgZotb76PQ0uk" target="_blank">here</a>.
+
+### {height = 30%}
+
+```{r, fig.width=3, fig.height=5, fig.cap="Figure 1: Model illustrating the risk for earlier CHD onset among the different smoking sample groups."}
+
+knitr::include_graphics("C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/publichealth_dashboards/img/modelsmoke_sample_groups.png")
+
+```
+
+```{r, fig.width=3, fig.height=5, fig.cap="Figure 2: Model predicting age of CHD onset based on the smoking start age of an individual."}
+
+knitr::include_graphics("C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/publichealth_dashboards/img/modelsmoke_sample_groups.png")
+
+```

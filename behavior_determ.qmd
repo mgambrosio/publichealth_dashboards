@@ -1,0 +1,32 @@
+---
+title: "Behavioral Determinants of Engagement"
+format: dashboard
+theme: sandstone
+---
+
+
+## Column 1 {.sidebar}
+
+```{r, fig.width=3, fig.height=5}
+
+knitr::include_graphics("C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/website/publichealth_dashboards/img/mobile.jpg")
+```
+
+## Row {width = 10%}
+
+
+<h2 style="font-size: 20px;">**An Investigation of the Behavioral Determinants of Engagement in a Chatbot-led Public Health Intervention: A Factorial Randomized Controlled Trial**</h2>
+
+**Overview:**
+Digital Health Interventions (DHIs), including those delivered via chatbots, offer wide-reaching support to deploy and scale cost-effectively public health programs. Despite the great expectations among the multiple gains DHIs may bring, developers and governments face challenges to scale, nationalize, and sustain them. Previous research reported that user engagement (i.e., frequency of use and proportion of content accessed) has been identified as an important barrier to scaling DHIs. This study aims to investigate the behavioural determinants (i.e., socio-economic factors) facilitators of user's engagement in DHIs. 
+
+### {height = 30%}
+
+**Related Publications:**
+
+Ambrosio MDG, Lachman JM, Zinzer P, … Melendez-Torres G. (2024). A factorial randomized controlled trial to optimize user engagement with a chatbot-led parenting intervention: Protocol for the ParentText optimisation trial. JMIR Res Protoc. 13: p. e52145. doi: 10.2196/52145. Read the study protocol <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11102037/" target="_blank">here</a>.
+
+Ambrosio MDG, Vyas S, Stromin J, … Lachman JM. [Manuscript in preparation for submission on 31/01/2025]. Associations between behavioural determinants and intention to use a chatbot-led parenting intervention by caregivers of adolescent girls in Mpumalanga, South Africa. JMIR. 
+
+Ambrosio MDG, Vyas S, Stromin J, … Lachman JM. [Manuscript in preparation for submission on 31/04/2025]. The effects  of  behavioural determinants and intention to use  on caregivers engagement with a chatbot-led parenting program in South Africa. SAGE. 
+
