@@ -67,7 +67,7 @@ library(shiny)
 value_box(
   title = "Individuals Aged 65 and Older",
   value = "81% of Deaths",
-  showcase = bsicons::bs_icon("bank2"),
+  showcase = bsicons::bs_icon("person-wheelchair"),
 theme = "success"
 )
 ```
@@ -77,7 +77,7 @@ theme = "success"
 value_box(
   title = "States Without Medicaid Expansion Presented Higher Mortality",
   value = "13.7% higher ",
-  showcase = bsicons::bs_icon("globe-europe-africa"),
+  showcase = bsicons::bs_icon("arrow-up-right-circle-fill"),
 theme = "primary"
 )
 
