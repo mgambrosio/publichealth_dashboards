@@ -7,7 +7,7 @@ theme: sandstone
 
 ## Row {height = 60%}
 
-<h2 style="font-size: 20px;">**The COVID-19 Pandemic and the Aging American Population: An  Exploration Analysis**</h2>
+<h2 style="font-size: 20px;">**The COVID-19 Pandemic and the Aging American Population: An  Exploratory Analysis**</h2>
 
 **Background:**
 
