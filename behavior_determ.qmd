@@ -18,6 +18,7 @@ knitr::include_graphics("C:/Users/maria/Desktop/Ambiente de Trabalho/Programing/
 <h2 style="font-size: 20px;">**An Investigation of the Behavioral Determinants of Engagement in a Chatbot-led Public Health Intervention: A Factorial Randomized Controlled Trial**</h2>
 
 **Overview:**
+
 Digital Health Interventions (DHIs), including those delivered via chatbots, offer wide-reaching support to deploy and scale cost-effectively public health programs. Despite the great expectations among the multiple gains DHIs may bring, developers and governments face challenges to scale, nationalize, and sustain them. Previous research reported that user engagement (i.e., frequency of use and proportion of content accessed) has been identified as an important barrier to scaling DHIs. This study aims to investigate the behavioural determinants (i.e., socio-economic factors) facilitators of user's engagement in DHIs. 
 
 ### {height = 30%}
